@@ -1,0 +1,14 @@
+# 安装包和临时文件
+*.tar.gz
+*.tar.gz:Zone.Identifier
+
+# 系统和编辑器文件
+.DS_Store
+.vscode
+.idea
+*.swp
+*~
+
+# 日志和临时文件
+*.log
+/tmp
